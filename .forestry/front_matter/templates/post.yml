@@ -45,3 +45,5 @@ fields:
   default: []
   label: Tags
   description: These are tags that are used for classifying the posts
+pages:
+- content/post/are-minorities-people-of-color-subject-to-harsher-and-more-frequent-policing-stops-in-major-cities-in-typically-conservative-states-or-liberal-states.md
