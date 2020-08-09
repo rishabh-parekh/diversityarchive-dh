@@ -17,7 +17,7 @@ taxonomies:
 menu:
   main:
   - url: "/contact/"
-    name: Contact Us
+    name: Contact
     weight: 2
   - url: "/about/"
     name: About
