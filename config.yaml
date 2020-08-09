@@ -16,7 +16,10 @@ taxonomies:
   author: authors
 menu:
   main:
+  - url: "/contact/"
+    name: Contact Us
+    weight: 2
   - url: "/about/"
     name: About
     title: About Us
-    weight: 4
+    weight: 1
