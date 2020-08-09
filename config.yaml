@@ -16,7 +16,7 @@ taxonomies:
   author: authors
 menu:
   main:
-  - url: "/about.md"
+  - url: "/about/"
     name: About
     title: blog section
     weight: 1
