@@ -1,9 +1,8 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
-
-# Theme settings
+---
+baseURL: https://example.com
+languageCode: en-us
+title: Hugo Novela
+pygmentsstyle: monokai
 theme: novela
 paginate: 6
 social:
@@ -17,8 +16,8 @@ taxonomies:
   author: authors
 menu:
   main:
-  - identifier: blog
-    name: This is the blog section
+  - url: "/about.md"
+    name: About
     title: blog section
-    url: /blog/
-    weight: -110
+    weight: 1
+    identifier: blog
