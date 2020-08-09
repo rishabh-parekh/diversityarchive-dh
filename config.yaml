@@ -1,7 +1,7 @@
 ---
 baseURL: https://example.com
 languageCode: en-us
-title: Hugo Novela
+title: Rishabh Parekh's Diversity Archive
 pygmentsstyle: monokai
 theme: novela
 paginate: 6
@@ -18,6 +18,5 @@ menu:
   main:
   - url: "/about/"
     name: About
-    title: blog section
-    weight: 1
-    identifier: blog
+    title: About Us
+    weight: 4
