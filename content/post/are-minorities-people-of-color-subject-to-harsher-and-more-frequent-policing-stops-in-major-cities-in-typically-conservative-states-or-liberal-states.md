@@ -8,7 +8,6 @@ timeToRead = 5
 title = "Are minorities/people of color subject to harsher and more frequent policing stops in major cities, in typically conservative states or liberal states?"
 
 +++
-
 Overview
 
 **Research Question**
@@ -16,6 +15,8 @@ Overview
 The research topic that I chose to investigate is:
 
 Are minorities/people of color subject to harsher and more frequent policing stops in major cities, in typically conservative states or liberal states?
+
+Link to Charts & GitHub: [https://github.com/rishabh-parekh/dh101final](https://github.com/rishabh-parekh/dh101final "https://github.com/rishabh-parekh/dh101final")
 
 ### Relevance
 
