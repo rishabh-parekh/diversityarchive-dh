@@ -9,6 +9,8 @@ title = "Are minorities/people of color subject to harsher and more frequent pol
 
 +++
 
+Overview
+
 **Research Question**
 
 The research topic that I chose to investigate is:
