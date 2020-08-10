@@ -5,8 +5,7 @@ hero: "/images/hero-5.jpg"
 excerpt: Tools and Methods about how to educate yourself and your colleagues about
   diversity training
 timeToRead: 7
-authors:
-- Thiago Costa
+authors: []
 
 ---
 This article was originally published here: [https://www.ceridian.com/blog/six-ways-to-support-diversity-and-inclusion-in-the-workplace](https://www.ceridian.com/blog/six-ways-to-support-diversity-and-inclusion-in-the-workplace "https://www.ceridian.com/blog/six-ways-to-support-diversity-and-inclusion-in-the-workplace")
