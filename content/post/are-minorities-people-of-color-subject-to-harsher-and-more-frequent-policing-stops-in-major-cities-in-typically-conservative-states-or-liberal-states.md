@@ -2,7 +2,7 @@
 authors = []
 date = 2020-08-02T04:00:00Z
 excerpt = ""
-hero = "/images/photo1.webp"
+hero = "/images/photo-1591623938927-f39a2ea92233.jpeg"
 tags = []
 timeToRead = 5
 title = "Are minorities/people of color subject to harsher and more frequent policing stops in major cities, in typically conservative states or liberal states?"
