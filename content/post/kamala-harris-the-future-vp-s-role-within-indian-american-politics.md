@@ -100,8 +100,10 @@ He joked that people in India who call Harris a "female Barack Obama" should now
 
 When asked if he had a message for his niece, Balachandran remembered something his sister used to say.
 
-* 
-
 "Shyamala always said never sit still. If you can do something, do something," he said.
 
 "Make Shyamala proud."
+
+Reflection:
+
+As an Indian-American, Senator Harris's appointment filled me with pride and hope. As someone who is not used to seeing people of my culture and heritage in politics - particularly the Democratic party, it was really a monumental moment. I hope that she embraces her Indian and Black roots, and stands up for causes that both communities fight for everyday. 
